@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #6597ac;
+}
+
+#content {
+    width: 600px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background: #94cce9;
+    border: 12px solid #28495c;
+    border-radius: 50px;
+}
+
+h1 {
+	text-align: center;
+    font-family: "Monaco", monospace;
+    color: white;
+    font-weight: bold;
+}
+
+p {
+	color: #28495c;
+	font-weight: bold;
+	text-align: center;
+}
+
+label {
+    display: block;
+    width: 20em;
+    text-align: right;
+    padding-right: 1em;
+    float: left;
+    color: #28495c;
+    font-family: "Monaco", monospace;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 75px;
+    border-radius: 6px;
+    border-bottom-color: #9cb4ce;
+    border-right-color: #9cb4ce;
+    border-top-color: #9cb4ce;
+    border-left-color: #9cb4ce;
+}
+
+#futureValue {
+    color: #000000;
+}
+
+br {
+    clear: left;
+}
