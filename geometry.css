@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+#content {
+    width: 600px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background: #F8B195;
+    border: 4px solid #F67280;
+}
+
+h1 {
+	text-align: center;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    color:#F67280;
+}
+
+p {
+	color: #C06C84;
+	font-weight: bold;
+	text-align: center;
+        font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+label {
+    display: block;
+    width: 20em;
+    text-align: right;
+    padding-right: 1em;
+    float: left;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    border: hidden;
+    color: #6C5B7B;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 100px;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    text-align: center;
+}
+
+fieldset {
+    border: solid;
+    border-color: #C06C84;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    color: #C06C84;
+    background-color: #F67280;
+    text-align: center;
+}
+#futureValue {
+    color: #000000;
+}
+
+br {
+    clear: left;
+}
